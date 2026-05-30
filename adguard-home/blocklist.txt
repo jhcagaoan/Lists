@@ -1,0 +1,11 @@
+! Title: My Blocklist
+! Description: Domains identified as phishing/C2
+! Version: 2026.05.31
+! Last modified: 31 May 2026
+! Expires: 7 days
+! License: Unlicense
+! Format: AdGuard
+!
+
+||invl.me^
+||dee.sale^
